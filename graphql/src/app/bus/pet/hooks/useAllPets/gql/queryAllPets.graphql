@@ -1,0 +1,8 @@
+query allPets{
+  allPets {
+    __typename,
+    id,
+    name,
+    weight
+  }
+}
